@@ -16,7 +16,7 @@
     "babel-jest": "20.0.3",
     "enzyme": "2.8.2",
     "eslint": "3.19.0",
-    "jest": "20.0.3",
+    "jest": "20.0.4",
     "react-addons-test-utils": "15.5.1",
     "react-test-renderer": "15.5.4",
     "redux-mock-store": "1.2.3"
@@ -28,7 +28,7 @@
     "next": "3.0.0-beta3",
     "next-redux-wrapper": "1.1.2",
     "prop-types": "^15.5.10",
-    "ramda": "^0.23.0",
+    "ramda": "^0.24.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-redux": "5.0.5",
