@@ -1,0 +1,39 @@
+{
+  "name": "buildit-technical-test",
+  "version": "0.1.0",
+  "description": "a single HTML page displaying the 5 day weather forecast for a location of your choice",
+  "main": "index.js",
+  "author": "Lucian Lature",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "test": "jest -u __tests__/Search.test.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "babel-jest": "20.0.3",
+    "enzyme": "2.8.2",
+    "eslint": "3.19.0",
+    "jest": "20.0.3",
+    "react-addons-test-utils": "15.5.1",
+    "react-test-renderer": "15.5.4",
+    "redux-mock-store": "1.2.3"
+  },
+  "dependencies": {
+    "async-reactor": "^1.2.0",
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.18.1",
+    "next": "3.0.0-beta3",
+    "next-redux-wrapper": "1.1.2",
+    "prop-types": "^15.5.10",
+    "ramda": "^0.23.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "5.0.5",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.2.0",
+    "throttle-debounce": "1.0.1"
+  }
+}

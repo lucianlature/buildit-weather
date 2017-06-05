@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`>>> SEARCH --- Snapshot +++ capturing Snapshot of Search 1`] = `
+<section
+  className="search"
+  data-jsx={2278698433}
+>
+  <form
+    data-jsx={2278698433}
+    id="search"
+    method="get"
+  >
+    <input
+      data-jsx={2278698433}
+      defaultValue="Woking,GB"
+      name="q"
+      onChange={[Function]}
+      placeholder="Enter city name..."
+      size="40"
+      type="text"
+    />
+  </form>
+</section>
+`;
