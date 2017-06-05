@@ -1,5 +1,7 @@
 ## Requirements
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lucianlature/buildit-weather.svg)](https://greenkeeper.io/)
+
 Please build a single HTML page displaying the 5 day weather forecast for a location of your choice.
 
 1. Do not spend more than 4 hours on your solution **(even if you do not complete the entire exercise)**.
